@@ -21,7 +21,7 @@ Run "npm run cy:open" to open the Cypress APP to run tests in interactive mode u
 Run "npm run cy:open:tablet" to open the Cypress App to run tests in interactive mode using a tablet viewport.
 
 
-Made With ❤️ by <a href="https://github.com/PabloMPR98"> Pablo</a>
+Made With ❤️ BY <a href="https://github.com/PabloMPR98"> Pablo</a>
 
 
 
