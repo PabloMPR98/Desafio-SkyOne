@@ -2,8 +2,7 @@
   
 >Status: Finished ✅
   
- ### Project to demostrate (e2e) tests written with Cypress.
- 
+ ### Project to demostrate (e2e) tests written with Cypress, you can find the test answers in the RESPOSTAS folder.
  # Pre-requirements
  To clone and run this project, you will need:
 
@@ -12,6 +11,12 @@
  + 👉 npm
 
 <b>Note:<b/> When installing Node.js, npm is automatically installed. 👍
+
+# Instalation
+
+to install the dev dependencies, run "npm install" (or "npm i" for short.)
+
+
 
 
 <h1>Running the tests</h1>
