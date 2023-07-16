@@ -7,9 +7,9 @@
  # Pre-requirements
  To clone and run this project, you will need:
 
- + Git
- + Node.js
- + npm
+ + 👉 Git
+ + 👉 Node.js
+ + 👉 npm
 
 <b>Note:<b/> When installing Node.js, npm is automatically installed. 👍
 
